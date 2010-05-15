@@ -1,0 +1,259 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeArchitecturePreference = i386;
+		activeBuildConfigurationName = Debug;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* IOXboxPartitionScheme */;
+		codeSenseManager = 22220A0F115C7C7400BDC6EE /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					539,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1069,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292481421;
+			PBXWorkspaceStateSaveDate = 292481421;
+		};
+		perUserProjectItems = {
+			22035370116DAE0900514957 /* PBXTextBookmark */ = 22035370116DAE0900514957 /* PBXTextBookmark */;
+			22035372116DAE0900514957 /* PBXTextBookmark */ = 22035372116DAE0900514957 /* PBXTextBookmark */;
+			22035374116DAE0900514957 /* PBXTextBookmark */ = 22035374116DAE0900514957 /* PBXTextBookmark */;
+			220353A5116DBA0A00514957 /* PBXTextBookmark */ = 220353A5116DBA0A00514957 /* PBXTextBookmark */;
+			220353ED116DCC5500514957 /* PBXTextBookmark */ = 220353ED116DCC5500514957 /* PBXTextBookmark */;
+			220353F3116DCD1600514957 /* PlistBookmark */ = 220353F3116DCD1600514957 /* PlistBookmark */;
+			22C79FCD116EF1EC004A76D5 /* PBXTextBookmark */ = 22C79FCD116EF1EC004A76D5 /* PBXTextBookmark */;
+			22C79FCE116EF1EC004A76D5 /* PBXTextBookmark */ = 22C79FCE116EF1EC004A76D5 /* PBXTextBookmark */;
+			22C79FCF116EF1EC004A76D5 /* PBXTextBookmark */ = 22C79FCF116EF1EC004A76D5 /* PBXTextBookmark */;
+			22C79FD2116EF1EC004A76D5 /* PBXTextBookmark */ = 22C79FD2116EF1EC004A76D5 /* PBXTextBookmark */;
+			22C79FD3116EF1EC004A76D5 /* PBXTextBookmark */ = 22C79FD3116EF1EC004A76D5 /* PBXTextBookmark */;
+			22E0840A116DD6D400C399BA /* PBXTextBookmark */ = 22E0840A116DD6D400C399BA /* PBXTextBookmark */;
+			22E0840B116DD6D400C399BA /* PBXTextBookmark */ = 22E0840B116DD6D400C399BA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 22220A0E115C7C7400BDC6EE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* IOXboxPartitionScheme.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {818, 897}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{0, 1504}";
+			sepNavWindowFrame = "{{757, 218}, {877, 885}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* IOXboxPartitionScheme.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 2691}}";
+			sepNavSelRange = "{2638, 0}";
+			sepNavVisRange = "{1435, 1969}";
+			sepNavWindowFrame = "{{857, 168}, {708, 818}}";
+		};
+	};
+	22035370116DAE0900514957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22035371116DAE0900514957 /* mac.h */;
+		name = "mac.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1297;
+		vrLoc = 3882;
+	};
+	22035371116DAE0900514957 /* mac.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = mac.h;
+		path = /System/Library/Frameworks/Kernel.framework/Headers/security/mac.h;
+		sourceTree = "<absolute>";
+	};
+	22035372116DAE0900514957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22035373116DAE0900514957 /* aes.h */;
+		name = "aes.h: 13";
+		rLen = 0;
+		rLoc = 471;
+		rType = 0;
+		vrLen = 1427;
+		vrLoc = 0;
+	};
+	22035373116DAE0900514957 /* aes.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = aes.h;
+		path = /System/Library/Frameworks/Kernel.framework/Headers/crypto/aes.h;
+		sourceTree = "<absolute>";
+	};
+	22035374116DAE0900514957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22035375116DAE0900514957 /* sha1.h */;
+		name = "sha1.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 891;
+		vrLoc = 1422;
+	};
+	22035375116DAE0900514957 /* sha1.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = sha1.h;
+		path = /System/Library/Frameworks/Kernel.framework/Headers/libkern/crypto/sha1.h;
+		sourceTree = "<absolute>";
+	};
+	22035379116DAE0900514957 /* md5.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = md5.h;
+		path = /System/Library/Frameworks/Kernel.framework/Headers/libkern/crypto/md5.h;
+		sourceTree = "<absolute>";
+	};
+	220353A5116DBA0A00514957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 22035379116DAE0900514957 /* md5.h */;
+		name = "md5.h: 73";
+		rLen = 9;
+		rLoc = 2674;
+		rType = 0;
+		vrLen = 1084;
+		vrLoc = 1774;
+	};
+	220353ED116DCC5500514957 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* IOXboxPartitionScheme.cpp */;
+		name = "IOXboxPartitionScheme.cpp: 93";
+		rLen = 0;
+		rLoc = 2080;
+		rType = 0;
+		vrLen = 2005;
+		vrLoc = 2089;
+	};
+	220353F3116DCD1600514957 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/tim/Projects/IOXboxPartitionScheme/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	22220A0E115C7C7400BDC6EE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	22220A0F115C7C7400BDC6EE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	22C79FCD116EF1EC004A76D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* IOXboxPartitionScheme.h */;
+		name = "IOXboxPartitionScheme.h: 63";
+		rLen = 0;
+		rLoc = 1473;
+		rType = 0;
+		vrLen = 1352;
+		vrLoc = 210;
+	};
+	22C79FCE116EF1EC004A76D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* IOXboxPartitionScheme.cpp */;
+		name = "IOXboxPartitionScheme.cpp: 160";
+		rLen = 0;
+		rLoc = 4207;
+		rType = 0;
+		vrLen = 1785;
+		vrLoc = 2448;
+	};
+	22C79FCF116EF1EC004A76D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* IOXboxPartitionScheme.cpp */;
+		name = "IOXboxPartitionScheme.cpp: 196";
+		rLen = 0;
+		rLoc = 5152;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 4207;
+	};
+	22C79FD2116EF1EC004A76D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* IOXboxPartitionScheme.h */;
+		name = "IOXboxPartitionScheme.h: 15";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 1504;
+		vrLoc = 0;
+	};
+	22C79FD3116EF1EC004A76D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* IOXboxPartitionScheme.cpp */;
+		name = "IOXboxPartitionScheme.cpp: 108";
+		rLen = 0;
+		rLoc = 2638;
+		rType = 0;
+		vrLen = 1969;
+		vrLoc = 1435;
+	};
+	22E0840A116DD6D400C399BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* IOXboxPartitionScheme.h */;
+		name = "IOXboxPartitionScheme.h: 15";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 1504;
+		vrLoc = 0;
+	};
+	22E0840B116DD6D400C399BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* IOXboxPartitionScheme.cpp */;
+		name = "IOXboxPartitionScheme.cpp: 110";
+		rLen = 0;
+		rLoc = 2638;
+		rType = 0;
+		vrLen = 1977;
+		vrLoc = 1431;
+	};
+	32D94FC30562CBF700B6AF17 /* IOXboxPartitionScheme */ = {
+		activeExec = 0;
+	};
+}
