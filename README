@@ -1,0 +1,10 @@
+IOXboxPartitionScheme
+
+A simple kext that recognizes an xbox360 formatted harddrive and publishes the 
+partitions for OSX to handle.
+
+Usage:
+1. Place the built kext into /System/Library/Extensions
+2. Connect an xbox360 formatted harddrive
+
+
